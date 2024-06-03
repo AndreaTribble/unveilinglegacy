@@ -12,7 +12,7 @@ credits: true
 
 ## About CollectionBuilder-Sheets
 
-This collection highlights the leadership contributions of Black women within the Black Campus Movement of the 1970s.
+This collection highlights the leadership contributions of Black women within the Black Campus Movement of the 1970s. This movement led to the emergence of Black Studies on campuses across the country 
 
 Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
 This enables active collaboration to prototype collections with minimal set up.
